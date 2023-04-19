@@ -1,0 +1,9 @@
+nav {
+    display: grid;
+    grid-template-columns:
+        110fr 110fr 128fr 603fr 218fr 170fr 110fr;
+    grid-template-rows: 1fr;
+    padding: 41px 0px;
+    width: 100vw;
+    background-color: var(--dark-color);
+}

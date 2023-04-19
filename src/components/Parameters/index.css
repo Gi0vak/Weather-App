@@ -1,0 +1,18 @@
+.now {
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 22px;
+}
+
+.parameters {
+    display: flex;
+    justify-content: space-around;
+    height: 178px;
+    padding-left: 100px;
+}
+
+.color-parameters {
+    background-color: var(--dark-color);
+    color: white;
+    align-items: center;
+}

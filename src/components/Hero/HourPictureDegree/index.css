@@ -1,0 +1,5 @@
+.hour-picture-degree {
+    display: flex;
+    flex-direction: column;
+    width: 87px;
+}

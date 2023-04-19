@@ -1,0 +1,14 @@
+.parameter {
+    display: flex;
+    flex-direction: column;
+}
+
+.parameter-text {
+    font-size: var(--parameters-text-s);
+    font-weight: var(--parameters-text-w);
+}
+
+.parameter-number {
+    font-size: var(--parameters-number-s);
+    font-weight: var(--parameters-number-w);
+}

@@ -1,0 +1,5 @@
+.town-day-degree {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}

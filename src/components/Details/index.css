@@ -1,0 +1,36 @@
+.details {
+    height: 528px;
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+}
+
+.table {
+    padding-top: 85px;
+    display: grid;
+    height: 160px;
+    width: 100%;
+}
+
+.big-col {
+    text-align: left;
+    width: 320px;
+}
+
+.row-table {
+    display: grid;
+    grid-template-columns: 320fr repeat(4, 220fr);
+    border-bottom: 1px solid black;
+    height: 30px;
+
+}
+
+.title {
+    font-size: var(--title-array-s);
+    font-weight: var(--title-array-w);
+}
+
+.detail {
+    font-size: var(--detail-array-s);
+    font-weight: var(--detail-array-w);
+}

@@ -1,0 +1,18 @@
+.button-degree {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    width: 170px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.degree-active {
+    font-weight: 700;
+}
+
+.celcius {
+    padding-right: 8px;
+}

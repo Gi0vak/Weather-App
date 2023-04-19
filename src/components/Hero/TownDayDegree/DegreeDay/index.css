@@ -1,0 +1,6 @@
+.degree-day {
+    font-size: var(--day-degree-s);
+    font-weight: var(--day-degree-w);
+    line-height: 0px;
+    height: 100px;
+}

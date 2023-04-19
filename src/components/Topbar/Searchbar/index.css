@@ -1,0 +1,17 @@
+.search-bar {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    display: flex;
+}
+
+.input-search {
+    min-width: 530px;
+    caret-color: rgba(235, 111, 76, 1);
+    font-size: var(--detail-array-s);
+}
+
+.button-search {
+    width: 73px;
+    background-color: rgba(235, 111, 76, 1);
+    border: none;
+}
